@@ -91,5 +91,6 @@ public class MainActivity extends ActionBarActivity {
         //LinearLayout.LayoutParams layoutParams = new LinearLayout.LayoutParams(();
         //addContentView(textView,);
         setContentView(textView);
+        //test git repo
     }
 }
